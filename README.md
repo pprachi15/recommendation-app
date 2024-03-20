@@ -1,5 +1,5 @@
 
-# Content Recommendation System
+# Content Recommendation App
 
 This project is aimed at developing a content recommendation system based on user search history, preferences, and ratings. The system utilizes machine learning techniques to analyze user behavior and provide personalized content suggestions.
 
