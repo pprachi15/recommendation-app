@@ -10,15 +10,23 @@ This project is aimed at developing a content recommendation system based on use
 - **Machine Learning**: Implement machine learning techniques to model user preferences and behavior.
 - **Content Recommendation**: Develop a recommendation system based on user search history, preferences, and ratings.
 
-## Dependencies
+## Tech Stack
 
-- Python 3.x
+- Python 3.x 
 - Jupyter Notebook
 - NumPy
 - Pandas
 - Matplotlib
+- Streamlit
 - Heroku
-- streamlit
+
+<img src="https://github.com/pprachi15/introduction/assets/116032314/650fefe9-040d-4264-9199-339819740bb0" width="80" height="80" />      <!-- Python -->
+<img src="https://github.com/pprachi15/introduction/assets/116032314/0966de8a-4ee7-4539-87a3-b80197160a75" width="80" height="80" />      <!-- Jupyter -->
+<img src="https://github.com/pprachi15/introduction/assets/116032314/d5b9b8d2-f64d-4d44-a3ca-b86639a80ab6" width="90" height="90" />        <!-- NumPy -->
+<img src="https://github.com/pprachi15/introduction/assets/116032314/d1ebfe9a-1371-4c59-8088-dbef9e8a3d17" width="90" height="90" />        <!-- Pandas -->
+<img src="https://github.com/pprachi15/introduction/assets/116032314/62c0a0b6-dfc5-4971-8707-e04d85d273ff" width="80" height="80" />        <!-- Matplotlib -->
+<img src="https://github.com/pprachi15/main/assets/116032314/d84813ab-cf7f-4807-b0b3-ef52f718df58" width="80" height="80" />        <!-- Streamlit -->
+<img src="https://github.com/pprachi15/main/assets/116032314/8810f301-07c2-48b3-bcf8-f0a931853515" width="80" height="80" />        <!-- Heroku -->
 
 ## Installation
 
