@@ -36,3 +36,11 @@ This project is aimed at developing a content recommendation system based on use
 
 - Prachi
 - Preferred Name: Eva
+
+## Output
+
+<img width="1442" alt="chooseMovie" src="https://github.com/pprachi15/recommendation-app/assets/116032314/e10fe6bb-a376-4561-b259-a64bae19cd11">
+<img width="1458" alt="seeRecommendation" src="https://github.com/pprachi15/recommendation-app/assets/116032314/10f196e3-645b-4836-a5f6-79ba7599ee22">
+<img width="1514" alt="seeRecommendation1" src="https://github.com/pprachi15/recommendation-app/assets/116032314/19e9aae5-621d-4877-a094-5bf98f0db015">
+
+Feel free to contribute to the project or use it as a basis for your own recommendation applications!
